@@ -1,0 +1,11 @@
+{
+    "databases": [
+        "teste_db",
+        "teste_db_2"
+    ],
+    "schedule": {
+        "enabled": true,
+        "cronExpression": "0 0 * * *"
+    },
+    "runImmediately": false
+}
